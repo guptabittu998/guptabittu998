@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://x.com/guptabittu998"><img src="https://img.shields.io/badge/X-@guptabittu998-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://hackerone.com/YOUR_H1"><img src="https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
+<a href="https://hackerone.com/guptabittu998"><img src="https://img.shields.io/badge/HackerOne-Profile-494649?style=for-the-badge&logo=hackerone&logoColor=white"/></a>
 <a href="https://bugcrowd.com/h/guptabittu998"><img src="https://img.shields.io/badge/Bugcrowd-Profile-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white"/></a>
 <a href="https://tryhackme.com/p/YOUR_THM"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 <a href="https://play.picoctf.org/users/YOUR_PICO"><img src="https://img.shields.io/badge/picoCTF-Profile-3A3A3A?style=for-the-badge&logoColor=white"/></a>
