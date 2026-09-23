@@ -93,7 +93,7 @@ gantt
 <summary><b>🏆 Achievements (unlocking...)</b></summary>
 <br/>
 
-- [ ] 🧪 Lab online — Kali Linux ARM
+- [x] 🧪 Lab online — Kali Linux ARM
 - [ ] 🚩 First CTF on CTFtime
 - [ ] 🎓 First verifiable certification
 - [ ] 🐞 First valid responsible disclosure
